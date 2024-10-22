@@ -1,0 +1,35 @@
+﻿@model Expenses.Models.ExpenseModel
+
+<form asp-action="ExpenseData" method="post">
+    <div class="form-group">
+        <label for="Title">Title</label>
+        <input type="hidden" asp-for="Id" />
+        <input type="text" asp-for="Title" class="form-control" placeholder="Enter title" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="MoneySpent">Money Spent</label>
+        <input type="number" asp-for="MoneySpent" class="form-control" step="0.01" placeholder="Enter amount" />
+        <span asp-validation-for="MoneySpent" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="ExpenseDate">Expense Date</label>
+        <input type="date" asp-for="ExpenseDate" class="form-control" />
+        <span asp-validation-for="ExpenseDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Category">Category</label>
+        <input type="text" asp-for="Category" class="form-control" placeholder="Enter category" />
+        <span asp-validation-for="Category" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+}

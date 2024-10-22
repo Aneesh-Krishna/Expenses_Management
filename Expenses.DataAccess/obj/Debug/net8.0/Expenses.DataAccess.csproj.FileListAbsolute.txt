@@ -1,0 +1,17 @@
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\bin\Debug\net8.0\Expenses.DataAccess.deps.json
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\bin\Debug\net8.0\Expenses.DataAccess.runtimeconfig.json
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\bin\Debug\net8.0\Expenses.DataAccess.dll
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\bin\Debug\net8.0\Expenses.DataAccess.pdb
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\bin\Debug\net8.0\Expenses.Models.dll
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\bin\Debug\net8.0\Expenses.Models.pdb
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\Expenses.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\Expenses.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\Expenses.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\Expenses.DataAccess.AssemblyInfo.cs
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\Expenses.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\Expenses.9C811C90.Up2Date
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\Expenses.DataAccess.dll
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\refint\Expenses.DataAccess.dll
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\Expenses.DataAccess.pdb
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\Expenses.DataAccess.genruntimeconfig.cache
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\ref\Expenses.DataAccess.dll
