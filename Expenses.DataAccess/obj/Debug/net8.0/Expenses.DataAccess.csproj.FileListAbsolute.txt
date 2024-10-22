@@ -15,3 +15,4 @@ C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\refint
 C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\Expenses.DataAccess.pdb
 C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\Expenses.DataAccess.genruntimeconfig.cache
 C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\ref\Expenses.DataAccess.dll
+C:\Users\aneea\source\repos\Expenses\Expenses.DataAccess\obj\Debug\net8.0\Expenses.DataAccess.sourcelink.json

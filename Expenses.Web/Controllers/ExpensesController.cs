@@ -73,7 +73,10 @@ namespace Expenses.Web.Controllers
                 }
             }
 
-            return View("Index");
+            // After deletion, retrieve the updated list of expenses and return the Index view
+            var updatedList = _expense.GetAllExpenses().ToList();
+            return View("Index", updatedList); // Pass the updated list to the view
         }
+
     }
 }

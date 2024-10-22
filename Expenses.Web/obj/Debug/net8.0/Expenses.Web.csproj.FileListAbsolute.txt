@@ -146,3 +146,4 @@ C:\Users\aneea\source\repos\Expenses\Expenses.Web\obj\Debug\net8.0\refint\Expens
 C:\Users\aneea\source\repos\Expenses\Expenses.Web\obj\Debug\net8.0\Expenses.Web.pdb
 C:\Users\aneea\source\repos\Expenses\Expenses.Web\obj\Debug\net8.0\Expenses.Web.genruntimeconfig.cache
 C:\Users\aneea\source\repos\Expenses\Expenses.Web\obj\Debug\net8.0\ref\Expenses.Web.dll
+C:\Users\aneea\source\repos\Expenses\Expenses.Web\obj\Debug\net8.0\Expenses.Web.sourcelink.json
